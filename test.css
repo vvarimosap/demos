@@ -10,7 +10,7 @@ background-color: white !important;
 .local_ss_vc_table1 td {
 border:  1px solid black !important;
 }
-.local_ss_vc_table1 td a {
+.local_ss_vc_table1 td a button {
 color: black !important;
   font-weight: bolder !important;
 }
