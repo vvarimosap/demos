@@ -10,8 +10,14 @@ background-color: white !important;
 .local_ss_vc_table1 td {
 border:  1px solid black !important;
 }
-.local_ss_vc_table1 td a,button {
+.local_ss_vc_table1 td a{
 color: black !important;
+  font-weight: bolder !important;
+}
+
+.local_ss_vc_table1 td button{
+color: black !important;
+  background-color: white !important;
   font-weight: bolder !important;
 }
 .local_ss_vc_table1_header {
