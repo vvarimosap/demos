@@ -27,10 +27,11 @@ color: black !important;
 
 
 .navigation--bottom {
-    background: white !important;
+   
     background-color: white !important;
     color:black;
 }
+
 
 .navigation--bottom .nav__links--products li a{
     
