@@ -26,13 +26,13 @@ color: black !important;
 }
 
 
-.navigation--bottom .nav__links--products li a{
+.navigation--bottom {
     background: white !important;
     background-color: white !important;
     color:black;
 }
 
-.navigation--bottom a{
+.navigation--bottom .nav__links--products li a{
     
     color:black !important;
 }
