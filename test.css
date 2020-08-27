@@ -1,3 +1,13 @@
-.local_ss_table1 {
-border: 1px solid red !important;
+.local_ss_vc_table1 {
+border: 1px solid black !important;
+}
+.local_ss_vc_table1 th {
+background-color: white !important;
+  border: 1px solid black !important;
+}
+.local_ss_vc_table1 td {
+border:  1px solid black !important;
+}
+.local_ss_vc_table1_header {
+ font-size: 40px; 
 }
