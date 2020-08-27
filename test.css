@@ -16,9 +16,10 @@ color: black !important;
 }
 
 .local_ss_vc_table1 td button{
-color: black !important;
+ color: black !important;
   background-color: white !important;
   font-weight: bolder !important;
+  border-color: black;
 }
 .local_ss_vc_table1_header {
  font-size: 40px; 
