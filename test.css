@@ -26,9 +26,10 @@ color: black !important;
 }
 
 
-.navigation .js-mainHeader{
+.navigation__overflow{
     background: white !important;
-    background-color: white !important;  
+    background-color: white !important;
+    color:black;
 }
 
 
