@@ -12,7 +12,7 @@ border:  1px solid black !important;
 }
 .local_ss_vc_table1 td a {
 color: black;
-  font-style: bold;
+  font-weight: bolder;
 }
 .local_ss_vc_table1_header {
  font-size: 40px; 
